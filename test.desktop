@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=x.y
+Name=test 				#specify version
+Comment=				#This is my comment
+Exec=test/test.h			#show file path
+Icon=test.png				#specify image file
+Terminal=true				#use a terminal 1/true 2/false
+Type=Application			#application type
+Categories=Utility;Application;		#application categories
+
